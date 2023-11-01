@@ -9,4 +9,4 @@ grade4 = float(input("grade4"))
 
 # average = (grade1 + grade2 + grade3 + grade4) / 4
 
-print(f" The student: {name} got the average: {(grade1 + grade2 + grade3 + grade4) / 4} ")
+print(f" The student: {name} got the average:  {(grade1 + grade2 + grade3 + grade4) / 4} ")
