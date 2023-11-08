@@ -1,0 +1,16 @@
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=https://github.com/paulo-xavier/uc10_notas.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.branch02.remote=origin
+branch.branch02.merge=refs/heads/branch02
+branch.branch01.remote=origin
+branch.branch01.merge=refs/heads/branch01
+user.name=paulo-xavier
+user.email=px568661@gmail.com
